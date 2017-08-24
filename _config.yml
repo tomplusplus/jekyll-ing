@@ -2,6 +2,9 @@
 title: Your awesome title
 timezone: UTC
 collections:
+  people:
+    title: People
+    output: true
   posts:
     title: Posts
     output: true
